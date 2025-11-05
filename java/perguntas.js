@@ -10,7 +10,7 @@ afirmacao:[
 proxima: 1,
 },
     {
-        texto:"O programa é insustentável a longo prazo e drena recursos que deveriam ser usados para melhorar a infraestrutura e a capacitação de professores (fatores-chave da qualidade educacional)."
+        texto:"O programa é insustentável a longo prazo e drena recursos que deveriam ser usados para melhorar a infraestrutura e a capacitação de professores (fatores-chave da qualidade educacional).",
     afirmacao:[
         "Futuro Certo é um gasto insustentável. O alto custo compromete o orçamento e desvia dinheiro de melhorias essenciais (infraestrutura e professores), tratando apenas o problema da pobreza sem garantir a qualidade do aprendizado.",
     ],
@@ -19,6 +19,45 @@ proxima: 1,
  ]
   },
   {
+    enunciado:"Considerando a estagnação do desempenho acadêmico e as denúncias de mau uso dos recursos, qual é a medida de ajuste mais eficaz que o governo municipal deve adotar para garantir que o Futuro Certo maximize o aprendizado e não apenas a frequência, sem comprometer seu impacto social?",
+    alternativas:[
+        {
+            texto:"Aumentar a exigência acadêmica (nota mínima para 7,5/8,0) e vincular 25% do auxílio à compra comprovada de materiais escolares/cursos.",
+            afirmacao:[
+                "Força maior esforço dos alunos e garante que parte do dinheiro seja, de fato, investida na educação (combate ao mau uso).",
+
+            ],
+            proxima: 3,
+        },
+        {
+            texto:"Manter o auxílio, mas investir em reforço escolar obrigatório (tutores) e na contratação de psicólogos/assistentes sociais para apoio integral na escola.",
+            afirmacao: [
+"A estagnação exige intervenção pedagógica direta e apoio psicossocial para resolver as causas estruturais e o mau uso sem penalizar o aluno (evita nova evasão).",
+            ],
+            proxima: 4, 
+        }
+    ]
+  },
+ {
+    enunciado:
+    alternativas:[
+        {
+            texto:
+            afirmacao:[
+
+            ],
+            proxima: 3,
+        },
+        {
+            texto:
+            afirmacao: [
+
+            ],
+            proxima: 4, 
+        }
+    ]
+  },
+ {
     enunciado:
     alternativas:[
         {
@@ -34,8 +73,6 @@ proxima: 1,
 
             ],
             proxima: 4,
-            
         }
     ]
-  }
-]
+  },
