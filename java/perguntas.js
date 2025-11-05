@@ -20,5 +20,22 @@ proxima: 1,
   },
   {
     enunciado:
+    alternativas:[
+        {
+            texto:
+            afirmacao:[
+
+            ],
+            proxima: 3,
+        },
+        {
+            texto:
+            afirmacao: [
+
+            ],
+            proxima: 4,
+            
+        }
+    ]
   }
 ]
