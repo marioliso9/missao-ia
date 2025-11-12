@@ -39,12 +39,12 @@ proxima: 1,
     ]
   },
  {
-    enunciado:
+    enunciado:"O problema aborda a Gentrificação no centro histórico de Porto Ativo, causada pelo aumento do turismo e valorização imobiliária, que está expulsando moradores de baixa renda e pequenos comerciantes.",
     alternativas:[
         {
-            texto:
+            texto:"Manter e acelerar a política de requalificação urbana focada em turismo e novos negócios para gerar riqueza e aumentar a arrecadação fiscal.",
             afirmacao:[
-
+"Intervir com políticas rígidas (ex: aluguel controlado, IPTU progressivo) para proteger o direito à moradia e a identidade cultural dos moradores originais.",
             ],
             proxima: 3,
         },
@@ -76,3 +76,4 @@ proxima: 1,
         }
     ]
   },
+];
